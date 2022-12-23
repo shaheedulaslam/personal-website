@@ -681,6 +681,7 @@ p.paragraph:after {
 
 footer {
     background: #222;
+	margin-top: 5%;
 }
 .copyright {
     background: #222;
